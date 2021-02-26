@@ -2,7 +2,7 @@
 
 This repo contains the data set for the paper _Learning from What We Know: How to Perform Vulnerability Prediction using Noisy Historical Data_, submitted in _ESEC/FSE 2021_.
 
-The dataset is composed of the _vulnerabilities_ reported in _National Vulnerability Database (NVD)_ [[1]](#1), and the _codebase_ gathered, for the _36_ releases of _Linux Kernel_ project [[2]](#2), _10_ releases of _Openssl_ project [[3]](#3), and _10_ releases of _Wireshark_ project [[4]](#4).
+The dataset is composed of the _vulnerabilities_ reported in _National Vulnerability Database (NVD)_ [[1]](https://nvd.nist.gov), and the _codebase_ gathered, for the _36_ releases of _Linux Kernel_ project [[2]](https://www.kernel.org), _10_ releases of _Openssl_ project [[3]](https://www.openssl.org), and _10_ releases of _Wireshark_ project [[4]](https://www.wireshark.org).
 
 ## References
 
